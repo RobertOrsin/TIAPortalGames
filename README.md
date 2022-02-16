@@ -7,6 +7,12 @@ As these games are only one during down-time at work and with no intent of shari
 
 If you are stuck and need some advice, feel free to contact me.
 
+# Implementation
+
+Each game consists of a list of vars, some scripts and a pop-up-screen. Copy all this into your project and you are set.
+
+Some games need Delay-Timers to be playable (animation-frames, input-lags and so on). You need different delay-values for Simulation and real hardware. You need to fiddle around with them to find a playable gamespeed.
+
 # The Games
 
 
