@@ -47,10 +47,10 @@ There is a boss-fight which needs some more mechanics to be good.
 Many...
 ### Other
 Sleepvalues can be configured within/before the game. Values that worked for me:
-Bomb-detonation:  PC: 400; HMI: 8000
-Enemy-Sleeptimer: PC: 120; HMI: 600
-Enemy-Commandtimer: PC:600; HMI: 3600
-Player-DelayTimer:  PC: 5; HMI 120
+- Bomb-detonation:  PC: 400; HMI: 8000
+- Enemy-Sleeptimer: PC: 120; HMI: 600
+- Enemy-Commandtimer: PC:600; HMI: 3600
+- Player-DelayTimer:  PC: 5; HMI 120
 
 ## Tetris
 Heavy work in progress, nothing to write home about.
