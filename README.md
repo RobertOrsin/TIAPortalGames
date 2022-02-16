@@ -5,7 +5,15 @@ These games are done by myself. Assets are scraped from the web or bought from i
 
 As these games are only one during down-time at work and with no intent of sharing, comments are sparse and may make no sense for everybody.
 
+Nothing is done to be done pretty (or even complete). The target for me was to get better with VBS and find limitation of the WinCC environment.
+
+Any use of this code is at your own risk.
+
 If you are stuck and need some advice, feel free to contact me.
+
+# Requirements
+Siemens TIA Portal V16, with Siemens Step7 Professional and WinCC Advanced.
+
 
 # Implementation
 
@@ -14,5 +22,33 @@ Each game consists of a list of vars, some scripts and a pop-up-screen. Copy all
 Some games need Delay-Timers to be playable (animation-frames, input-lags and so on). You need different delay-values for Simulation and real hardware. You need to fiddle around with them to find a playable gamespeed.
 
 # The Games
+## Snake
+The classic snake-game.
+### Known Bugs and Issues
+- Snake does not eat itself
+- Games "ends" after 30 apples
 
+## TicTacToe Extreme
+Nine TicTacToe-Games combined to a big game. Placing within a game determines where the next player can play. Check the ingame text..
+### Known Bugs and Issues
+- Winnerscreen shows wrong player
+
+## Viergewinnt (four wins)
+A quick and dirty version of four-wins, no winner determination, just placing gamepices.
+### Known Bugs and Issues
+non so far
+
+## Gameboy Zelda
+As the title says, some tiles and sprites to create a gameboy like rpg game. This is so most complex so far and needs more documentation.
+Players can push statues around to solve puzzles, slay enemies with sword and bombs.
+The Levelfile contains 13 Levels and can be advanced.
+There is a boss-fight which needs some more mechanics to be good.
+### Known Bugs and Issues
+Many...
+
+## Tetris
+Heavy work in progress, nothing to write home about.
+
+## Gameboy RPG (Pokemon)
+Based of my knowledge from the zelda-game i advanced the map with scrolling. Added a different tile-set (pokemon red/blue) and currently work on it.
 
