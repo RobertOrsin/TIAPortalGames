@@ -58,3 +58,17 @@ Heavy work in progress, nothing to write home about.
 ## Gameboy RPG (Pokemon)
 Based of my knowledge from the zelda-game i advanced the map with scrolling. Added a different tile-set (pokemon red/blue) and currently work on it.
 
+### Features so far included:
+- reading signs
+- starting pokemonbattles in high gras
+- includes graphicslists for pokemonsprites and main-battle-screen
+- data for all gen. 1 moves
+- formula for damage-calculation
+
+### currently worked on
+- adding stats for all pokemon
+- adding stuff for leveling stats and stat-calculation
+- pokemin-inventory (6 pokemon)
+- battle-function
+
+
