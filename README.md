@@ -59,6 +59,8 @@ Heavy work in progress, nothing to write home about.
 Based of my knowledge from the zelda-game i advanced the map with scrolling. Added a different tile-set (pokemon red/blue) and currently work on it.
 
 ### Features so far included:
+- Systemintro
+- Gameintro
 - reading signs
 - starting pokemonbattles in high gras
 - includes graphicslists for pokemonsprites and main-battle-screen
