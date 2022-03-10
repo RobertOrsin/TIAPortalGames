@@ -66,11 +66,13 @@ Based of my knowledge from the zelda-game i advanced the map with scrolling. Add
 - includes graphicslists for pokemonsprites and main-battle-screen
 - data for all gen. 1 moves
 - formula for damage-calculation
-
-### currently worked on
 - adding stats for all pokemon
-- adding stuff for leveling stats and stat-calculation
 - pokemin-inventory (6 pokemon)
+- 
+### currently worked on
+- adding stuff for leveling stats and stat-calculation
+- rearanging pokemon and showing the detail-window
 - battle-function
+  - attack-animation + damage-dealing(-calculation)
 
 
