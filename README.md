@@ -9,7 +9,7 @@ Nothing is done to be done pretty (or even complete). The target for me was to g
 
 Any use of this code is at your own risk.
 
-If you are stuck and need some advice, feel free to contact me.
+If you are stuck and need some advice, feel free to contact me or check the wiki-pages. I update and advance the wiki whenever i find some time.
 
 # Requirements
 Siemens TIA Portal V16, with Siemens Step7 Professional and WinCC Advanced.
