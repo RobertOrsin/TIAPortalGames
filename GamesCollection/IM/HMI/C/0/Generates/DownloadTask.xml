@@ -2,18 +2,18 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="16.0.0.0"
-    CreationTime="2022-03-23 12:40:52 (UTC)"
+    CreationTime="2022-05-06 09:48:53 (UTC)"
     Runtime="COLORADO"
     RtProjectName="GamesCollection.HMI_1[TP1200 Comfort]"
     RtProjectFolderName="GamesCollection.HMI_1[TP1200 Comfort]"
     DeviceType="TP1200 Comfort"
     DisplayOrientation="0"
-    RTReleaseNo="16.0.0.5"
-    ImageReleaseNo="16.0.0.5"
+    RTReleaseNo="16.0.0.6"
+    ImageReleaseNo="16.0.0.6"
     RTCV="16.0.0.0"
     PRCV="16.0.0.0"
-    FirmwareFileName="CP_7_9\16.0.0.5\CP_7_9_12_V16_0.fwf"
-    RuntimeFileName="CP_7_9\16.0.0.5\CP_7_9_12_V16_0.ruf"
+    FirmwareFileName="CP_7_9\16.0.0.6\CP_7_9_12_V16_0.fwf"
+    RuntimeFileName="CP_7_9\16.0.0.6\CP_7_9_12_V16_0.ruf"
     RuntimeAddonFolderName="CP_7_9" />
   <FullDownload>pdata.fwc</FullDownload>
   <FullDownload
