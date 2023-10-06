@@ -21,30 +21,6 @@ Each game consists of a list of vars, some scripts and a pop-up-screen. Copy all
 
 Some games need Delay-Timers to be playable (animation-frames, input-lags and so on). You need different delay-values for Simulation and real hardware. You need to fiddle around with them to find a playable gamespeed.
 
-## Gameboy RPG (Pokemon)
-Based of my knowledge from the zelda-game i advanced the map with scrolling. Added a different tile-set (pokemon red/blue) and currently work on it.
-
-Here a snapshot of what is already doable:
-![GIF](https://user-images.githubusercontent.com/39116976/158162100-f439914d-0bef-41ee-a1dd-4f85f5cb2a66.gif)
-
-
-### Features so far included:
-- Systemintro
-- Gameintro
-- reading signs
-- starting pokemonbattles in high gras
-- includes graphicslists for pokemonsprites and main-battle-screen
-- data for all gen. 1 moves
-- formula for damage-calculation
-- adding stats for all pokemon
-- pokemin-inventory (6 pokemon)
-- 
-### currently worked on
-- adding stuff for leveling stats and stat-calculation
-- rearanging pokemon and showing the detail-window
-- battle-function
-  - attack-animation + damage-dealing(-calculation)
-
 # The Games
 ## Snake
 The classic snake-game.
@@ -75,6 +51,30 @@ Sleepvalues can be configured within/before the game. Values that worked for me:
 - Enemy-Sleeptimer: PC: 120; HMI: 600
 - Enemy-Commandtimer: PC:600; HMI: 3600
 - Player-DelayTimer:  PC: 5; HMI 120
+
+## Gameboy RPG (Pokemon)
+Based of my knowledge from the zelda-game i advanced the map with scrolling. Added a different tile-set (pokemon red/blue) and currently work on it.
+
+Here a snapshot of what is already doable:
+![GIF](https://user-images.githubusercontent.com/39116976/158162100-f439914d-0bef-41ee-a1dd-4f85f5cb2a66.gif)
+
+
+### Features so far included:
+- Systemintro
+- Gameintro
+- reading signs
+- starting pokemonbattles in high gras
+- includes graphicslists for pokemonsprites and main-battle-screen
+- data for all gen. 1 moves
+- formula for damage-calculation
+- adding stats for all pokemon
+- pokemin-inventory (6 pokemon)
+- 
+### currently worked on
+- adding stuff for leveling stats and stat-calculation
+- rearanging pokemon and showing the detail-window
+- battle-function
+  - attack-animation + damage-dealing(-calculation)
 
 ## Tetris
 Heavy work in progress, nothing to write home about.
